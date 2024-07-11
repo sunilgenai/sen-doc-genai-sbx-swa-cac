@@ -36,7 +36,7 @@ def list_referrals():
 if __name__ == '__main__':
  app.run(debug=True)
  
-# Note: The following commented code represents the potential integration with Azure OpenAI Sentara
+# Note: Then The following commented code represents the potential integration with Azure OpenAI Sentara
 # which is not provided in the original script. Uncomment and modify as necessary for actual implementation.
  
 # import openai
